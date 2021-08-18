@@ -1,0 +1,11 @@
+INSERT INTO `hotel` (`id`, `name`, `price`, `pricemax`, `description`, `facility`, `location`, `contact`, `img`) VALUES
+(13, 
+'Radisson Hotel Kathmandu', 
+'17,235', 
+'18,500', 
+"Located in the heart of Nepal’s thriving capital, Radisson Hotel Kathmandu places you close to corporate offices, embassies, and popular attractions like the entertainment district of Thamel and historical Kathmandu Durbar Square. Once you arrive at Tribhuvan International Airport (KTM), take our airport shuttle to the hotel, where you can unwind with a treatment at our Tranquility Spa or lounge by our rooftop pool. When you’re ready to see the sights, don’t miss Boudhanath Stupa and Hanuman Dhoka, both less than three miles away.
+During your stay, be sure to soak up some sun by the rooftop pool or roll the dice at the 24-hour Casino Rad, adjacent to the hotel. Our health club features treadmills for a cardio workout as well as a sauna and a steam room for winding down. Traveling for work? Book a Business Class room to enjoy a free drink with canapes each evening in our Business Class Lounge and complimentary use of a meeting room for two hours per day.",
+'Free Internet Access, Free Parking, Concierge service, Early check-in, Accessibility, Airport shuttle, Bar, Breakfast, Spa, Room service, Express check-out, Fitness center, In-room safe, Laundry service, Meeting facilities, On-site dining, Valet parking', 
+'Kathmandu', 
+'+977 1 4273999, +977 1 4272567', 
+'Soaltee.jpg');

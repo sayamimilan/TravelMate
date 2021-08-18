@@ -1,0 +1,10 @@
+INSERT INTO `hotel`(`id`,`name`,`price`,`pricemax`,`description`,`facility`,`location`,`contact`,`img`)VALUES
+('12',
+'Hotel Royal Century',
+'5,844',
+'',
+"Enjoy a striking destination inspired by the extraordinary landscape, melding the offerings of thrilling business amenities and a relaxing periphery.",
+'Spa,Free WIFI,Swimming POOL,Air-Conditioning,Parking',
+'Chitwan',
+'(977)-56-525865',
+'royal.jpg');

@@ -1,0 +1,10 @@
+INSERT INTO `hotel`(`id`,`name`,`price`,`pricemax`,`description`,`facility`,`location`,`contact`,`img`)VALUES
+('10',
+'Gokarna Forest Resort',
+'15,630',
+'',
+"Set amidst Kathmandu Valley, Gokarna Forest Resort offers accommodation with breathtaking views of the Gokarna Forest. Set in the Gokarna Protected Forest, this refined resort is 7 km from the Pashupatinath Temple and 12 km from Kathmandu Durbar Square.",
+'Free WIFI, refined forest resort offering a golf course, a pool, spa, health club, bar, dining options',
+'Kathmandu',
+'+01-4451212',
+'gokarna.jpg');

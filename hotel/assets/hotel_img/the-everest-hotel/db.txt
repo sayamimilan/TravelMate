@@ -1,0 +1,10 @@
+INSERT INTO `hotel` (`id`, `name`, `price`, `pricemax`, `description`, `facility`, `location`, `contact`, `img`) VALUES
+(5, 
+'The Everest Hotel', 
+'11,800', 
+'', 
+"The Everest Hotel is located just 3 Kms from Kathmandu International Airport and International Convention Centre and conveniently established at a place surrounded by Tourist hotspots, shopping Centre, Pashupatinath and Changu Narayan Temple. View of the mountains in the heart of city & Nepali Culture, these vistas are best admired from the hotel’s 160 rooms and suites, aesthetically and tastefully appointed, the rooms are well lit and offer all modern amenities such as spacious wardrobe, an LCD television, mini bar, complimentary high speed internet for up to two devices per room.",
+'24 Hour Front Desk, Travel Desk, Wake Up Calls, Local Newspaper/s, Dry Cleaning / Laundry Service, Concierge, Luggage Storage, Cafe, Bar / Lounge, Room Service - 24hr, Conference/Meeting Facilities, Interconnecting Rooms, Non Smoking, Pets Not Allowed, Lift/Elevator, Credit Cards Accepted, Shops, Suites, Wheelchair Accessible, Gym/Fitness Room, Kids Pool, Family Rooms, Interconnecting Rooms, Eco-Friendly, Outdoor Pool - Unheated, On-site Car Parking, Street Parking,', 
+'Kathmandu', 
+'+977-1-4780100', 
+'everest.jpg');

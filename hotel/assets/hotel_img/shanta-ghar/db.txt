@@ -1,0 +1,10 @@
+INSERT INTO `hotel` (`id`, `name`, `price`, `pricemax`, `description`, `facility`, `location`, `contact`, `img`) VALUES
+('9', 
+'Shanta Ghar', 
+'944', 
+'', 
+"Shanta Ghar (peace home) is a rustic natural Eco resort in the remote grassland area of beautiful Madi all surrounded by Chitwan National Park.",
+'Facilities for disabled guest, Free Wi-Fi, Ticket services, Water park, Hiking, Tours, Bar, BBQ facilities, Room service, Shared kitchen, Rental car, Shops, Food delivery',
+'Chitwan', 
+'+977-985-5052016', 
+'shanta.jpg');

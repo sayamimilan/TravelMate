@@ -1,0 +1,10 @@
+INSERT INTO `hotel` (`id`, `name`, `price`, `pricemax`, `description`, `facility`, `location`, `contact`, `img`) VALUES
+(7, 
+'Barahi Jungle Lodge', 
+'22,873', 
+'', 
+"Barahi Jungle Lodge situated in the pacific Chitwan, reflects the serenity of the National Park. Chitwan’s tranquility and the lodge’s peace very well complement one another. Experiencing refined luxury in the panoramic jungles adorned with the Rapti River when viewed from Barahi’s vantage point is a parallel universe retreat. We take immense pride in strengthening the bond of nature and mankind through our experiences.",
+'Spacious bathroom, Private balconies with panoramic views of the river and National Park, Wildlife-inspired décor and artifacts, Daily Housekeeping service, Laundry service, Dining, Private Campfire, Nature Walks, Canoeing, Cultural Performance, Bullock Cart Village Visit, Jeep Safari, spa, pool', 
+'Chitwan', 
+' 977-1- 4411113, 4415735, 4429820, 4410480', 
+'barahi.jpg');

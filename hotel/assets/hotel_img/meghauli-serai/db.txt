@@ -1,0 +1,10 @@
+INSERT INTO `hotel` (`id`, `name`, `price`, `pricemax`, `description`, `facility`, `location`, `contact`, `img`) VALUES
+(6, 
+'Meghauli Serai', 
+'30,976', 
+'', 
+"Standing on the banks of the river Rapti, Meghauli Serai overlooks a vast expanse of rippling waters and the core of Chitwan National Park. This 30 room luxurious jungle safari resort in Chitwan National Park is designed to showcase the spectacular wilderness and rooms as well as guest areas afford uninterrupted views of the jungle. The main lounge with an imposing chandelier made with 10,000 Nepalese hand painted beads. The lodge embraces local décor and aesthetics with an abundant use of local art and artefacts. The large Newari door leading to the lobby has been procured from a local Tharu village. A large infinity pool with a viewing deck and a ‘machan’ over the river for private dining and wildlife viewing add to the charm of this jungle lodge at Chitwan.",
+'Free WiFi, accommodation of a spa bath, Air Conditioned Rooms, Minibar, Private Bathroom, Outdoor Pool, On-site Restaurant Meal, Car Hire, Jungle Safari', 
+'Chitwan', 
+'+91 1800 111 1825', 
+'meghauli.jpg');

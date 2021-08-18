@@ -1,0 +1,10 @@
+INSERT INTO `hotel`(`id`,`name`,`price`,`pricemax`,`description`,`facility`,`location`,`contact`,`img`)VALUES
+('13',
+'Hotel Pokhara Grande',
+'8,941',
+'',
+"Pokhara Grande is the five star hotel of Pokhara, Nepal providing the right blend of service, luxury and quiet efficiency. Internationally acclaimed for all-round excellence and unparalleled levels of service, we have got our name listed among 10 best hotels of Nepal.",
+'Swimming pool, Gymanisum, Spa, WIFI, Parking',
+'Pokhara',
+'+977-061-460210',
+'grande.jpg');

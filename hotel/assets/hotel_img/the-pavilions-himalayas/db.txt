@@ -1,0 +1,10 @@
+INSERT INTO `hotel` (`id`, `name`, `price`, `pricemax`, `description`, `facility`, `location`, `contact`, `img`) VALUES
+('11', 
+'The Pavilions Himalayas', 
+'27024', 
+'', 
+"Nestled in the natural paradise of a lushly forested valley and set against the backdrop of the majestic Himalayan mountain range, The Pavilions Himalayas is a truly eco-sensitive luxury resort that gives back to the local community. Breathe, hike, explore the beauty of Nepal beyond your expectations. Set on our organic farm, guests enjoy the natural beauty of Pokhara, the gateway to the Annapurna Himalayas.",
+'Free Internet Access, Free Parking, Concierge service, Early check-in, Accessibility, Airport shuttle, Bar, Breakfast, Spa, Room service, Express check-out, Fitness center, In-room safe, Laundry service, Meeting facilities, On-site dining, Valet parking',
+'Pokhara', 
+'+977 61 694379 | +977 975600 8117', 
+'pavilion.jpg');

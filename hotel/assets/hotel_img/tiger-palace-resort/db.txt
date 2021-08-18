@@ -1,0 +1,10 @@
+INSERT INTO `hotel`(`id`,`name`,`price`,`pricemax`,`description`,`facility`,`location`,`contact`,`img`)VALUES
+('14',
+'Tiger Palace Resort',
+'7890',
+'',
+"Tiger Palace Resort is in Bhairahawa, in the fertile, subtropical Terai region of Nepal. Situated to the south of the legendary Himalayas, the resort is easily accessible from India or Kathmandu, offering guests a sophisticated and thrilling getaway.",
+'Spa, Free WIFI, Swimming Pool, Fitness, Casino, Room Service',
+'Lumbini',
+'+977 71512000',
+'tiger.jpg');

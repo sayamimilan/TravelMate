@@ -1,0 +1,10 @@
+INSERT INTO `hotel` (`id`, `name`, `price`, `pricemax`, `description`, `facility`, `location`, `contact`, `img`) VALUES
+(8, 
+'Baber Mahal Vilas', 
+'18,439', 
+'', 
+"The vision behind the boutique property is to create a hospitality model where in, luxury and service are provided in a historically and culturally significant ambience in the center Kathmandu Valley. To host our guests in an atmosphere that illustrates the grand lifestyle of the Rana era mixed with the original architectural heritage of Newar, Mustang and Terai cultures. Though modest in size the property is attached to Baber Mahal Revisited complex. Acting as an extension to the Vilas, Revisited offers a host of shops offering quality traditional products, and some of the finest dining options in the city.",
+'Daily Housekeeping, 24 Hour Front Desk, Swimming Pool, Library, Wi-Fi, Shops', 
+'Kathmandu', 
+'+977-01-4257655/4248747', 
+'baber.jpg');

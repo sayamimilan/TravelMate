@@ -1,0 +1,10 @@
+INSERT INTO `hotel` (`id`, `name`, `price`, `pricemax`, `description`, `facility`, `location`, `contact`, `img`) VALUES
+(4, 
+'Hotel Yak & Yeti', 
+'11,650', 
+'', 
+"Yak and Yeti is a heritage hotel located in Durbar Marg, the thriving city center of Kathmandu Valley, in a prime location that is minutes walking distance from the former Royal Palace. Durbar marg is a commercial area with high-end shops and a variety of food options. Our 5 star deluxe luxury property is 6 KM away from the Tribhuvan International Airport, about 1 KM from the famous tourist hub of Nepal- Thamel.",
+'Business Center, Free Parking, Travel Desk, Beauty Parlour & coiffeur, Casino Royale, Deluxe Room, Club Shangri-La, Regal Ballroom, Regency Hall, Conference & Events', 
+'Kathmandu', 
+'+977 1 4248999, +977 1 4240520', 
+'yak.jpg');

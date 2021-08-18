@@ -1,0 +1,10 @@
+INSERT INTO `hotel` (`id`, `name`, `price`, `pricemax`, `description`, `facility`, `location`, `contact`, `img`) VALUES
+(15, 
+'The Fulbari Resort & Spa', 
+'9,000', 
+'', 
+"For travelers who want to take in the sights and sounds of Pokhara, The Fulbari Resort & Spa is the perfect choice. The city center is merely 4.0 km away and the airport can be reached within 15 minutes. A haven of rest and relaxation, the hotel will offer total renewal just steps away from the city's numerous attractions such as International Mountain Museum, Himalaya Eye Hospital, Phusre Khola Gorge.",
+'Fitness Center, Golf Course(on-site), Hot Tub, Spa, Swimming Pool, Bar, Tennis Court, NightClub', 
+'Pokhara', 
+'061-432451', 
+'fulbari.jpg');
